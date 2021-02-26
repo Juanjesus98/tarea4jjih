@@ -4,7 +4,7 @@
 	package Fecha;
 
 /**
- * @author juanje
+ * @author juanjesus
  *
  */
 public class Fecha {
